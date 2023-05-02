@@ -5,10 +5,6 @@ import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const config = {
-  runtime: 'experimental-edge',
-}
-
 export default function Home() {
   return (
     <>
